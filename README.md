@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaham Ahammed</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="1050" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNjdGd4aThydDVqY2V3Z25xYnZsaDl1eW9tamR5MmRjb3Bxd2V3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="1050" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaham-ahammed&label=Profile%20views&color=0e75b6&style=flat" alt="shaham-ahammed" /> </p>
 
 
